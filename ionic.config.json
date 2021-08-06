@@ -1,0 +1,7 @@
+{
+  "name": "MyGUS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
