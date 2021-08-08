@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MyGUS",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
