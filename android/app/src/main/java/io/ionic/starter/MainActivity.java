@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package de.henrikdev.mygus;
 
 import com.getcapacitor.BridgeActivity;
 

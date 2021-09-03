@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">MyGUS</string>
     <string name="title_activity_main">MyGUS</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="package_name">de.henrikdev.mygus</string>
+    <string name="custom_url_scheme">de.henrikdev.mygus</string>
 </resources>
